@@ -124,32 +124,13 @@ dense_mat->matVecMult(vec_right, vec_out);
 
 ## Documentation 
 
-Please read [report.pdf](https://github.com/acse-2019/acse-5-assignment-bad_bois/blob/master/report.pdf) for details on our code of conduct, and algorthims.
+Please read [report.pdf](https://github.com/vagifaliyev/Matrix-Solver/blob/master/report.pdf) for details on our code of conduct, and algorthims.
 
-Penetration analysis results can be viewed in folder [outputData](https://github.com/acse-2019/acse-5-assignment-bad_bois/tree/master/penetration/outputData)
+Penetration analysis results can be viewed in folder [outputData](https://github.com/vagifaliyev/Matrix-Solver/tree/master/penetration/outputData)
 
-## Strengths and weaknesses of this library
-
-+ architeture built for expansion
-+ well organised code
-+ generic use for all classes
-+ easy to remember function names
-
-- not finished
-- not well analysed for vectorisation
 
 ## On the next Patch:
-(what we would do differently next time)
 
-At the very begging, draw a map of all Classes/sub-classes and functions belonging to it.
-
-Write up the templete file for the entire programme from the very beginning. 
-
-Write comments whilst coding. 
-
-Maintain the team communication on a level as high as this time. 
-
-### If we had another week:
 * Finish implementing MatMatMult for band & symmetric matrix 
 * Parallize with opemMP 
 * Write a function to analyze the input matrix and direct it to the most aprropiate class.
@@ -157,9 +138,9 @@ Maintain the team communication on a level as high as this time.
 
 ## Authors
 
-* **Vagif Aliyev** - [Github](https://github.com/acse-va719)
+* **Vagif Aliyev** - [Github](https://github.com/vagifaliyev)
 * **Sotiris Gkoulimaris** - [Github](https://github.com/acse-sg3219)
-* **Nikolas Vornehm** - [Github](https://github.com/acse-ncv19)
+* **Nikolas Vornehm** - [Github](https://github.com/Mountiko)
 
 ## Acknowledgments
 
@@ -167,4 +148,4 @@ Thanks to the teaching staff for their enthusiastic classes and all the Teaching
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/acse-2019/acse-5-assignment-bad_bois/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/vagifaliyev/Matrix-Solver/blob/master/LICENSE) file for details.
