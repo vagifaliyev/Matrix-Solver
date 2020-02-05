@@ -1,0 +1,75 @@
+check for seg faults
+generateSPD works
+dense2band works
+Total iteration; 58
+Total Residual: 1.21804e-10
+10 0.000106
+check for seg faults
+generateSPD works
+dense2band works
+Total iteration; 9
+Total Residual: 1.24895e-10
+100 0.000134
+check for seg faults
+generateSPD works
+dense2band works
+Total iteration; 6
+Total Residual: 9.50719e-11
+1000 0.000717
+check for seg faults
+generateSPD works
+dense2band works
+Total iteration; 5
+Total Residual: 2.3116e-10
+10000 0.006091
+check for seg faults
+check for seg faults
+generateSPD works
+dense2band works
+Total iteration; 107
+Total Residual: 7.63259e-10
+10 0.000159
+check for seg faults
+generateSPD works
+dense2band works
+Total iteration; 9
+Total Residual: 1.24895e-10
+100 0.000141
+check for seg faults
+generateSPD works
+dense2band works
+Total iteration; 6
+Total Residual: 9.50719e-11
+1000 0.000814
+check for seg faults
+generateSPD works
+dense2band works
+Total iteration; 5
+Total Residual: 2.3116e-10
+10000 0.006324
+check for seg faults
+check for seg faults
+generateSPD works
+dense2band works
+Total iteration; 59
+Total Residual: 2.19393e-11
+10 0.000138
+check for seg faults
+generateSPD works
+dense2band works
+Total iteration; 9
+Total Residual: 1.24895e-10
+100 0.000138
+check for seg faults
+generateSPD works
+dense2band works
+Total iteration; 6
+Total Residual: 9.50719e-11
+1000 0.000717
+check for seg faults
+generateSPD works
+dense2band works
+Total iteration; 5
+Total Residual: 2.3116e-10
+10000 0.006175
+check for seg faults

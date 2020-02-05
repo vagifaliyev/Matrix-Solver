@@ -1,0 +1,16 @@
+Total iteration; 10
+Total Residual: 2.17747e-17
+------------
+10 0.000117
+Total iteration; 25
+Total Residual: 3.49732e-10
+------------
+100 0.000268
+Total iteration; 29
+Total Residual: 7.45038e-10
+------------
+1000 0.002746
+Total iteration; 34
+Total Residual: 3.33609e-10
+------------
+10000 0.030041
