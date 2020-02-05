@@ -139,7 +139,7 @@ Penetration analysis results can be viewed in folder [outputData](https://github
 ## Authors
 
 * **Vagif Aliyev** - [Github](https://github.com/vagifaliyev)
-* **Sotiris Gkoulimaris** - [Github](https://github.com/acse-sg3219)
+* **Sotiris Gkoulimaris** - [Github](https://github.com/hustic)
 * **Nikolas Vornehm** - [Github](https://github.com/Mountiko)
 
 ## Acknowledgments
