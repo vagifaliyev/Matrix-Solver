@@ -1,7 +1,6 @@
 # ACSE 5: Matrix Library
-# Group Name: Bad_Bois 
 
-This C++ library is meant for carrying out Matrix computations. Inlcudes a total 4 types of matrices to use:
+This C++ library is meant for carrying out Matrix computations. Includes a total 4 types of matrices to use:
 
 1. Dense Matrix:
 saves strictly all values within an ordinary matrix.
@@ -132,7 +131,7 @@ Penetration analysis results can be viewed in folder [outputData](https://github
 ## On the next Patch:
 
 * Finish implementing MatMatMult for band & symmetric matrix 
-* Parallize with opemMP 
+* Parallize with openMP 
 * Write a function to analyze the input matrix and direct it to the most aprropiate class.
 
 
