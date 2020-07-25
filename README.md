@@ -134,13 +134,6 @@ Penetration analysis results can be viewed in folder [outputData](https://github
 * Parallize with openMP 
 * Write a function to analyze the input matrix and direct it to the most aprropiate class.
 
-
-## Authors
-
-* **Vagif Aliyev** - [Github](https://github.com/vagifaliyev)
-* **Sotiris Gkoulimaris** - [Github](https://github.com/hustic)
-* **Nikolas Vornehm** - [Github](https://github.com/Mountiko)
-
 ## Acknowledgments
 
 Thanks to the teaching staff for their enthusiastic classes and all the Teaching Assistants for their assistance.
