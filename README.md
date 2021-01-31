@@ -90,7 +90,7 @@ auto* dense_mat1 = new Matrix<double>(cols, rows, true);
 
 // fill in matrices and print them     
 dense_mat1->fillRandom();
-dens_mat1->printMatrix();
+dense_mat1->printMatrix();
 
 
 // this Matrix object has been implemented without
