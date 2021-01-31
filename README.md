@@ -41,7 +41,7 @@ For the development of this library, only the standart c++11 libraries have been
 - Clone this repo to your local machine using:
 
 ```
-git clone https://github.com/acse-2019/acse-5-assignment-bad_bois
+git clone https://github.com/vagifaliyev/Matrix-Solver
 ```
 
 ## Running the test
